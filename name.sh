@@ -4,4 +4,4 @@ read fname
 echo last name :
 read lname
 
-echo $fname $lname
+echo "hello" $fname $lname
